@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "albumArtist": "looking 4 myself",
+      "albumArt": "https://songslover.live/wp-content/uploads/Usher-Looking-4-Myself-300x300.jpg",
+      "albumName": "usher",
+      "albumGenre": "r&b",
+      "albumDate": "05 june 2012",
+      "albumSongs": [
+        {
+          "name": "cant stop wont stop",
+          "url": "http://www.woo55.pk/adata/574/01.%20Cant%20Stop%20Wont%20Stop%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "scream",
+          "url": "http://www.woo55.pk/adata/575/02.%20Scream%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "climax",
+          "url": "http://www.woo55.pk/adata/576/03.%20Climax%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "i care for u",
+          "url": "http://www.woo55.pk/adata/577/04.%20I%20Care%20For%20U%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "show me",
+          "url": "http://www.woo55.pk/adata/578/05.%20Show%20Me%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "lemme see (feat. rick ross)",
+          "url": "http://www.woo55.pk/adata/569/06.%20Lemme%20See%20(Feat.%20Rick%20Ross)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "twisted (feat. pharrell)",
+          "url": "http://www.woo55.pk/adata/570/07.%20Twisted%20(Feat.%20Pharrell)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "dive",
+          "url": "http://www.woo55.pk/adata/571/08.%20Dive%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "what happened to u",
+          "url": "http://www.woo55.pk/adata/572/09.%20What%20Happened%20To%20U%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "looking 4 myself (feat. luke steele)",
+          "url": "http://www.woo55.pk/adata/573/10.%20Looking%204%20Myself%20(Feat.%20Luke%20Steele)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "numb",
+          "url": "http://www.woo55.pk/adata/579/11.%20Numb%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "lessons for the lover",
+          "url": "http://www.woo55.pk/adata/580/12.%20Lessons%20For%20The%20Lover%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "sins of my father",
+          "url": "http://www.woo55.pk/adata/581/13.%20Sins%20Of%20My%20Father%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "euphoria",
+          "url": "http://www.woo55.pk/adata/582/14.%20Euphoria%20(www.SongsLover.com).mp3"
+        }
+      ]
+    }
+  ]
+}

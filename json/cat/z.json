@@ -1,0 +1,755 @@
+{
+  "data": [
+    {
+      "albumArtist": "jay-z",
+      "albumArt": "https://songslover.live/wp-content/uploads/JAY-Z-S.-Carter-Collection-15th-Anniversary-300x300.jpg",
+      "albumName": "s. carter collection (15th anniversary) 2018",
+      "albumGenre": "undefined",
+      "albumDate": "undefined",
+      "albumSongs": []
+    },
+    {
+      "albumArtist": "zara larsson",
+      "albumArt": "https://m.songslover.club/wp-content/uploads/2017/03/Zara-Larsson-So-Good.jpg",
+      "albumName": "so good",
+      "albumGenre": "pop",
+      "albumDate": "undefined",
+      "albumSongs": [
+        {
+          "name": "what they say",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/01.%20What%20They%20Say%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "ain’t my fault",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/02.%20Ain't%20My%20Fault%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "i would like",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/03.%20I%20Would%20Like%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "lush life",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/04.%20Lush%20Life%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "never forget you (ft. mnek)",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/05.%20Never%20Forget%20You%20(Ft.%20MNEK)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "so good (ft. ty dolla sign)",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/06.%20So%20Good%20(Ft.%20Ty%20Dolla%20Sign)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "tg4m",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/07.%20TG4M%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "only you",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/08.%20Only%20You%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "sundown (ft. wizkid)",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/09.%20Sundown%20(Ft.%20WizKid)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "don’t let me be yours",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/10.%20Don't%20Let%20Me%20Be%20Yours%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "make that money girl",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/11.%20Make%20That%20Money%20Girl%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "one mississippi",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/12.%20One%20Mississippi%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "funeral",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/13.%20Funeral%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "i can’t fall in love without you",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/14.%20I%20Can't%20Fall%20In%20Love%20Without%20You%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "symphony (ft. clean bandit)",
+          "url": "https://www.stuffdown.com/2017/Zara%20Larsson%20-%20So%20Good%20-%20(www.SongsLover.club)/15.%20Symphony%20(Ft.%20Clean%20Bandit)%20-%20(www.SongsLover.club).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "jay-z",
+      "albumArt": "https://m.songslover.club/wp-content/uploads/2015/05/jayz-manga-caeta-holy-grail.jpg",
+      "albumName": "magna carta holy grail",
+      "albumGenre": "rap",
+      "albumDate": "04 july 2013",
+      "albumSongs": [
+        {
+          "name": "holy grail (ft. justin timberlake)",
+          "url": "http://www.woo55.pk/adata/9165/1.%20Holy%20Grail%20(Ft.%20Justin%20Timberlake)%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "picasso baby",
+          "url": "http://www.woo55.pk/adata/9166/2.%20Picasso%20Baby%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "tom ford",
+          "url": "http://www.woo55.pk/adata/9167/3.%20Tom%20Ford%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "fuckwithmeyouknowigotit (ft. rick ross)",
+          "url": "http://www.woo55.pk/adata/9168/4.%20FuckWithMeYouKnowIGotIt%20(Ft.%20Rick%20Ross)%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "oceans (ft. frank ocean)",
+          "url": "http://www.woo55.pk/adata/9169/5.%20Oceans%20(Feat.%20Frank%20Ocean)%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "f.u.t.w.",
+          "url": "http://www.woo55.pk/adata/9170/6.%20F.U.T.W.%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "somewhere in america",
+          "url": "http://www.woo55.pk/adata/9171/7.%20Somewhere%20In%20America%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "crown",
+          "url": "http://www.woo55.pk/adata/9172/8.Crown%20(Feat.%20Travis%20Scott)%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "heaven",
+          "url": "http://www.woo55.pk/adata/9173/9.%20Heaven%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "versus",
+          "url": "http://www.woo55.pk/adata/9174/10.%20Versus%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "part ii (on the run) (ft. beyoncé)",
+          "url": "http://www.woo55.pk/adata/9175/11.%20Part%20II%20(On%20The%20Run)%20(Ft.%20Beyonc%C3%A9)%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "beach is better",
+          "url": "http://www.woo55.pk/adata/9176/12.%20Beach%20Is%20Better%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "bbc",
+          "url": "http://www.woo55.pk/adata/9177/13.%20BBC%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "jay z blue",
+          "url": "http://www.woo55.pk/adata/9178/14.%20Jay%20Z%20Blue%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "la familia",
+          "url": "http://www.woo55.pk/adata/9179/15.%20La%20Familia%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "nickels & dimes",
+          "url": "http://www.woo55.pk/adata/9180/16.%20Nickels%20%20Dimes%20-%20(www.SongsLover.pk).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "zayn",
+      "albumArt": "https://songslover.live/wp-content/uploads/ZAYN-There-You-Are.jpg",
+      "albumName": "icarus falls",
+      "albumGenre": "undefined",
+      "albumDate": "undefined",
+      "albumSongs": []
+    },
+    {
+      "albumArtist": "jay-z & kanye west",
+      "albumArt": "https://songslover.live/wp-content/uploads/Jay-Z-And-Kanye-West-Watch-the-Throne.jpg",
+      "albumName": "watch the throne",
+      "albumGenre": "hip-hop",
+      "albumDate": "aug – 08 – 2011",
+      "albumSongs": [
+        {
+          "name": "no church in the wild (ft. frank ocean)",
+          "url": "http://www.woo55.com/adata/8496/01.%20No%20Church%20In%20The%20Wild%20(Ft.%20Frank%20Ocean)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "lift off (ft. beyonce)",
+          "url": "http://www.woo55.com/adata/8497/02.%20Lift%20Off%20(Ft.%20Beyonce)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "niggas in paris",
+          "url": "http://www.woo55.com/adata/8498/03.%20Niggas%20In%20Paris%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "otis (ft. otis redding)",
+          "url": "http://www.woo55.com/adata/8499/04.%20Otis%20(Ft.%20Otis%20Redding)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "gotta have it",
+          "url": "https://share33.com/track/05.%20Gotta%20Have%20it.mp3"
+        },
+        {
+          "name": "new day",
+          "url": "http://www.woo55.com/adata/8501/06.%20New%20Day%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "that’s my bitch",
+          "url": "http://www.woo55.com/adata/8502/07.%20Thats%20My%20Bitch%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "welcome to the jungle",
+          "url": "http://www.woo55.com/adata/8503/08.%20Welcome%20To%20The%20Jungle%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "who gon stop me",
+          "url": "http://www.woo55.com/adata/8504/09.%20Who%20Gon%20Stop%20Me%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "murder to excellence",
+          "url": "http://www.woo55.com/adata/8505/10.%20Murder%20To%20Excellence%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "made in america (ft. frank ocean)",
+          "url": "http://www.woo55.com/adata/8506/11.%20Made%20In%20America%20(Ft.%20Frank%20Ocean)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "why i love you (ft. mr hudson)",
+          "url": "http://www.woo55.com/adata/8507/12.%20Why%20I%20Love%20You%20(Ft.%20Mr%20Hudson)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "illest motherfucker alive",
+          "url": "http://www.woo55.com/adata/8508/13.%20Illest%20Motherfucker%20Alive%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "h.a.m",
+          "url": "http://www.woo55.com/adata/8509/14.%20H.A.M%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "primetime",
+          "url": "http://www.woo55.com/adata/8510/15.%20Primetime%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "the joy (ft. curtis mayfield)",
+          "url": "http://www.woo55.com/adata/8495/16.%20The%20Joy%20(Ft.%20Curtis%20Mayfield)%20(www.SongsLover.com).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "zhu",
+      "albumArt": "https://songslover.live/wp-content/uploads/ZHU-Generationwhy-298x300.jpg",
+      "albumName": "generationwhy",
+      "albumGenre": "dance",
+      "albumDate": "undefined",
+      "albumSongs": [
+        {
+          "name": "intro (neon city)",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/01.%20Intro%20(Neon%20City)%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "cold blooded",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/02.%20Cold%20Blooded%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "in the morning",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/03.%20In%20the%20Morning%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "secret weapon",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/04.%20Secret%20Weapon%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "electrify me",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/05.%20Electrify%20Me%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "numb",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/06.%20Numb%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "palm of my hand",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/07.%20Palm%20of%20My%20Hand%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "money",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/08.%20Money%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "one minute to midnight",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/09.%20One%20Minute%20to%20Midnight%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "reaching",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/10.%20Reaching%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "hometown girl",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/11.%20Hometown%20Girl%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "good life",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/12.%20Good%20Life%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "generationwhy",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/13.%20Generationwhy%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "working for it (bonus track)",
+          "url": "http://stuffdown.com/2016/ZHU%20-%20Generationwhy%20-%20(www.SongsLover.com)/14.%20Working%20For%20It%20(Bonus%20Track)%20-%20(www.SongsLover.com).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "jay z",
+      "albumArt": "https://m.songslover.club/wp-content/uploads/2015/05/Jay-z-Forever-Brooklyn-Songs.jpg",
+      "albumName": "forever brooklyn songs",
+      "albumGenre": "undefined",
+      "albumDate": "august 5, 2010",
+      "albumSongs": [
+        {
+          "name": "inro",
+          "url": "http://www.woo55.com/adata/31/01%20-%20intro-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z where im from",
+          "url": "http://www.woo55.com/adata/32/02%20-%20%20jay%20z%20where%20im%20from-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay zdrakenotorious big ight it up remix",
+          "url": "http://www.woo55.com/adata/33/03%20-%20%20jay%20zdrakenotorious%20big%20ight%20it%20up%20%20remix-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z dr dre under pressure",
+          "url": "http://www.woo55.com/adata/34/04%20-%20%20jay%20z%20dr%20dre%20under%20pressure-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z melissa morgan cant knock the hustle",
+          "url": "http://www.woo55.com/adata/35/05%20-%20%20jay%20z%20melissa%20morgan%20cant%20knock%20the%20hustle-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z timberland ghetto technico",
+          "url": "http://www.woo55.com/adata/36/06%20-%20%20jay%20z%20timberland%20ghetto%20technico.mp3"
+        },
+        {
+          "name": "jay z notorious big brooklyns finest",
+          "url": "http://www.woo55.com/adata/37/07%20-%20%20jay%20z%20notorious%20big%20brooklyns%20finest-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z kanye westlil wayne bad guy",
+          "url": "http://www.woo55.com/adata/38/08%20-%20%20jay%20z%20kanye%20westlil%20wayne%20bad%20guy-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z cant cheat death",
+          "url": "http://www.woo55.com/adata/39/09%20-%20jay%20z%20cant%20cheat%20death-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z carter advantage",
+          "url": "http://www.woo55.com/adata/40/10%20-%20%20jay%20z%20carter%20advantage-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z flashy life",
+          "url": "http://www.woo55.com/adata/41/11%20-%20%20jay%20z%20flashy%20life-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z maybach music 2",
+          "url": "http://www.woo55.com/adata/42/12%20-%20%20jay%20z%20maybach%20music%202-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z freestyle",
+          "url": "http://www.woo55.com/adata/43/13%20-%20%20jay%20z%20freestyle-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z freestyle",
+          "url": "http://www.woo55.com/adata/44/14%20-%20jay%20z%20freestyle-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z sweet",
+          "url": "http://www.woo55.com/adata/45/15%20-%20%20jay%20z%20sweet-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "drakebiggiejay z warrior",
+          "url": "http://www.woo55.com/adata/46/17%20-%20%20drakebiggiejay%20z%20warrior-(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "jay z public annoincment",
+          "url": "http://www.woo55.com/adata/47/18%20-%20%20jay%20z%20public%20annoincment-(www.SongsLover.com).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "ziggy marley",
+      "albumArt": "https://songslover.live/wp-content/uploads/Ziggy-Marley-Ziggy-Marley.jpg",
+      "albumName": "ziggy marley",
+      "albumGenre": "other",
+      "albumDate": "undefined",
+      "albumSongs": [
+        {
+          "name": "start it up",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/01.%20Start%20It%20Up%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "weekend’s long",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/02.%20Weekend's%20Long%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "ceceil",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/03.%20Ceceil%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "amen",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/04.%20Amen%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "heaven can’t take it ft. stephen marley",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/05.%20Heaven%20Can't%20Take%20It%20Ft.%20Stephen%20Marley%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "better together",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/06.%20Better%20Together%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "butterflies",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/07.%20Butterflies%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "we are more",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/08.%20We%20Are%20More%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "love is a rebel",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/09.%20Love%20Is%20A%20Rebel%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "marijuanaman",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/10.%20Marijuanaman%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "we are the people",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/11.%20We%20Are%20The%20People%20-%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "i’m not made of stone",
+          "url": "http://stuffdown.com/2016/Ziggy%20Marley%20-%20Ziggy%20Marley%20-%20(www.SongsLover.com)/12.%20I'm%20Not%20Made%20Of%20Stone%20-%20(www.SongsLover.com).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "zaytoven",
+      "albumArt": "https://m.songslover.club/wp-content/uploads/2018/05/Trapholizay-300x300.jpg",
+      "albumName": "trapholizay 2018",
+      "albumGenre": "undefined",
+      "albumDate": "undefined",
+      "albumSongs": [
+        {
+          "name": "intro (feat. gucci mane)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/01%20Intro%20(feat.%20Gucci%20Mane)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "left da bank",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/02%20Left%20da%20Bank%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "go get the money (feat. rick ross)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/03%20Go%20Get%20the%20Money%20(feat.%20Rick%20Ross)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "wake up & cook up",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/04%20Wake%20Up%20&%20Cook%20Up%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "back on it (feat. offset & young)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/05%20Back%20on%20It%20(feat.%20Offset%20&%20Young)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "what you think (feat. oj da juice)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/06%20What%20You%20Think%20(feat.%20OJ%20da%20Juice)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "black privilege (feat. plies)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/07%20Black%20Privilege%20(feat.%20Plies)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "show it (feat. t.i., offset & kod)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/08%20Show%20It%20(feat.%20T.I.,%20Offset%20&%20Kod)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "boot up (feat. future)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/09%20Boot%20Up%20(feat.%20Future)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "east atlanta day (feat. gucci mane)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/10%20East%20Atlanta%20Day%20(feat.%20Gucci%20Mane)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "strong (feat. lil uzi vert)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/11%20Strong%20(feat.%20Lil%20Uzi%20Vert)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "mo reala (feat. future)",
+          "url": "https://share33.com/2018/Zaytoven%20-%20Trapholizay%20-%20(www.SongsLover.club)/12%20Mo%20Reala%20(feat.%20Future)%20-%20(www.SongsLover.club).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "z-ro",
+      "albumArt": "https://songslover.live/wp-content/uploads/Z-Ro-Melting-The-Crown-300x300.jpg",
+      "albumName": "melting the crown",
+      "albumGenre": "rap",
+      "albumDate": "20 aug. 2014",
+      "albumSongs": [
+        {
+          "name": "intro",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/01.%20Intro%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "don’t stop now",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/02.%20Don't%20Stop%20Now%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "keep it real ft. rick ross",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/03.%20Keep%20It%20Real%20Ft.%20Rick%20Ross%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "talking to the popo",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/04.%20Talking%20To%20the%20Popo%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "the real is back",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/05.%20The%20Real%20is%20Back%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "see me now",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/06.%20See%20Me%20Now%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "too many niggaz",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/07.%20Too%20Many%20Niggaz%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "sweet james",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/08.%20Sweet%20James%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "miss my mama",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/09.%20Miss%20My%20Mama%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "way 2 fly",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/10.%20Way%202%20Fly%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "look good",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/11.%20Look%20Good%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "poroupine (feat. kirko bangz)",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/12.%20Poroupine%20(Feat.%20Kirko%20Bangz)%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "i’m alive",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/13.%20I'm%20Alive%20-%20(www.SongsLover.pk).mp3"
+        },
+        {
+          "name": "where my money at",
+          "url": "http://stuffdown.com/2015/Z-Ro%20-%20Melting%20The%20Crown%20-%20(www.SongsLover.pk)/14.%20Where%20My%20Money%20At%20-%20(www.SongsLover.pk).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "jay-z",
+      "albumArt": "https://songslover.live/wp-content/uploads/Jay-Z-–-The-Hits-Collection-Vol.-1-300x300.jpg",
+      "albumName": "the hits collection vol. 1",
+      "albumGenre": "undefined",
+      "albumDate": "nov 22, 2010",
+      "albumSongs": [
+        {
+          "name": "public service announcement (interlude)",
+          "url": "http://www.woo55.com/adata/2906/01.%20Public%20Service%20Announcement%20(Interlude)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "run this town (ft. rihanna & kanye west)",
+          "url": "http://www.woo55.com/adata/2907/02.%20Run%20This%20Town%20(Ft.%20Rihanna%20&%20Kanye%20West)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "bonnie & clyde (ft. beyonce)",
+          "url": "http://www.woo55.com/adata/2908/03.%2003%20Bonnie%20&%20Clyde%20(Ft.%20Beyonce)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "encore",
+          "url": "http://www.woo55.com/adata/2909/04.%20Encore%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "i just wanna love u (give it 2 me)",
+          "url": "http://www.woo55.com/adata/2910/05.%20I%20Just%20Wanna%20Love%20U%20(Give%20It%202%20Me)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "izzo (h.o.v.a.)",
+          "url": "http://www.woo55.com/adata/2911/06.%20Izzo%20(H.O.V.A.)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "d.o.a. (death of auto-tune)",
+          "url": "http://www.woo55.com/adata/2912/07.%20D.O.A.%20(Death%20Of%20Auto-Tune)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "99 problems",
+          "url": "http://www.woo55.com/adata/2913/08.%2099%20Problems%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "empire state of mind (ft. alicia keys)",
+          "url": "http://www.woo55.com/adata/2914/09.%20Empire%20State%20Of%20Mind%20(Ft.%20Alicia%20Keys)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "dirt off your shoulder",
+          "url": "http://www.woo55.com/adata/2915/10.%20Dirt%20Off%20Your%20Shoulder%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "hard knock life (ghetto anthem)",
+          "url": "http://www.woo55.com/adata/2916/11.%20Hard%20Knock%20Life%20(Ghetto%20Anthem)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "show me what you got",
+          "url": "http://www.woo55.com/adata/2917/12.%20Show%20Me%20What%20You%20Got%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "roc boys (and the winner is)",
+          "url": "http://www.woo55.com/adata/2918/13.%20Roc%20Boys%20(And%20The%20Winner%20Is)%20(www.SongsLover.com).mp3"
+        },
+        {
+          "name": "big pimpin",
+          "url": "http://www.woo55.com/adata/2919/14.%20Big%20Pimpin%20(www.SongsLover.com).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "zayn malik",
+      "albumArt": "https://songslover.live/wp-content/uploads/Zayn-Malik-Mind-Of-Mine-300x300.jpg",
+      "albumName": "mind of mine",
+      "albumGenre": "pop",
+      "albumDate": "24, march 2016",
+      "albumSongs": [
+        {
+          "name": "mind of mine (intro)",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/01.%20Mind%20Of%20Mine%20(Intro)%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "pillowtalk",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/02.%20PillowTalk%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "it’s you",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/03.%20It's%20You%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "befour",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/04.%20Befour%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "she",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/05.%20She%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "drunk",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/06.%20Drunk%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "intermission: flower",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/07.%20Intermission-%20Flower%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "rear view",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/08.%20Rear%20View%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "wrong (ft. kehlani)",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/09.%20Wrong%20(Ft.%20Kehlani)%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "fool for you",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/10.%20Fool%20For%20You%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "borderz",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/11.%20Borderz%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "truth",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/12.%20Truth%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "lucozade",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/13.%20Lucozade%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "take it off (tio)",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/14.%20Take%20It%20Off%20(TiO)%20-%20(www.SongsLover.cc).mp3"
+        },
+        {
+          "name": "like i would",
+          "url": "http://stuffdown.com/2016/Zayn%20Malik%20-%20Mind%20Of%20Mine%20-%20(www.SongsLover.cc)/17.%20Like%20I%20Would%20-%20(www.SongsLover.cc).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "zedd",
+      "albumArt": "https://m.songslover.club/wp-content/uploads/2018/01/Zedd-Stay-300x300.jpg",
+      "albumName": "stay +",
+      "albumGenre": "",
+      "albumDate": "undefined",
+      "albumSongs": [
+        {
+          "name": "stay",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/01%20Stay%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "get low",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/02%20Get%20Low%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "break free (feat. zedd)",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/03%20Break%20Free%20(feat.%20Zedd)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "beautiful now (feat. jon bellion)",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/04%20Beautiful%20Now%20(feat.%20Jon%20Bellion)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "candyman",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/05%20Candyman%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "adrenaline",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/06%20Adrenaline%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "ignite",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/07%20Ignite%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "starving (feat. zedd)",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/08%20Starving%20(feat.%20Zedd)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "stay (yasutaka nakata remix)",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/09%20Stay%20(Yasutaka%20Nakata%20Remix)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "get low (kuuro remix)",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/10%20Get%20Low%20(KUURO%20Remix)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "let me love you (feat. justin bieber)",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/11%20Let%20Me%20Love%20You%20(feat.%20Justin%20Bieber)%20-%20(www.SongsLover.club).mp3"
+        },
+        {
+          "name": "zedd mega nonstop mix",
+          "url": "https://www.stuffdown.com/2017/Zedd%20-%20Stay%20-%20(www.SongsLover.club)/12%20Zedd%20Mega%20Nonstop%20Mix%20-%20(www.SongsLover.club).mp3"
+        }
+      ]
+    },
+    {
+      "albumArtist": "zedd & katy perry",
+      "albumArt": "https://songslover.app/wp-content/uploads/Zedd-Katy-Perry-365.jpg",
+      "albumName": "365",
+      "albumGenre": "undefined",
+      "albumDate": "undefined",
+      "albumSongs": []
+    }
+  ]
+}
